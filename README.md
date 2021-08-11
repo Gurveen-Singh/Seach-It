@@ -1,1 +1,1 @@
-A react web app to search images uisng unsplash api.
+A react web app to search images using unsplash api.
